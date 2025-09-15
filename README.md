@@ -155,4 +155,4 @@ Sebastião Leal – [LinkedIn](https://www.linkedin.com/in/sebastiao-leal)
 
 ## Licença
 
-MIT License – veja o arquivo [LICENSE](LICENSE)
+MIT License – veja o arquivo [LICENSE](LICENSE) 
