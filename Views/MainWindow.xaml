@@ -1,0 +1,11 @@
+<TabControl>
+	<TabItem Header="Pessoas">
+		<views:PessoaView/>
+	</TabItem>
+	<TabItem Header="Produtos">
+		<views:ProdutoView/>
+	</TabItem>
+	<TabItem Header="Pedidos">
+		<views:PedidoView/>
+	</TabItem>
+</TabControl>
